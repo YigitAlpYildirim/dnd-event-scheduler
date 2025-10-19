@@ -4,7 +4,7 @@ An advanced, reusable, and highly interactive scheduling component built for mod
 
 This component is designed for developers who need a robust and flexible solution for creating, managing, and visualizing time-based schedules. Its modular architecture and clean API make it easy to integrate into any Next.js project.
 
-[**View the Live Demo**](https://www.google.com/search?q=https://your-demo-link-here.com) \#\# Key Features
+[**View the Live Demo**] (https://dnd-event-scheduler.vercel.app/)
 
 - **Intuitive Drag-and-Drop Interface**: Seamlessly create, resize, and move time blocks on a 7-day grid.
 - **High Precision Control**: Utilizes a 15-minute interval snapping grid for accurate scheduling.
