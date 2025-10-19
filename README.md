@@ -1,9 +1,3 @@
-Elbette, projenizin kod yapısını, modern teknolojilerini ve profesyonel yeteneklerini göz önünde bulundurarak, uzman bir dille yazılmış, kapsamlı ve etkileyici bir `README.md` dosyası hazırladım.
-
-Bu `README`, projenizi başka geliştiricilere en iyi şekilde sunmak için tasarlanmıştır.
-
----
-
 # Interactive Schedule Editor for Next.js
 
 An advanced, reusable, and highly interactive scheduling component built for modern web applications using Next.js, TypeScript, and Tailwind CSS. It provides a rich, grid-based UI for intuitive weekly time management.
